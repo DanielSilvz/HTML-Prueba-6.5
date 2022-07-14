@@ -1,0 +1,32 @@
+.container {
+    width: 1,320px;
+    height: 1080px;
+    background-image: url(https://pbs.twimg.com/media/FXo0vYhVsAEOyV_?format=jpg&name=large);
+
+}
+.cajita-1 {
+ /* background-color: rgb(0, 0, 0); */
+ display: flex;
+ justify-content:center;
+ color:rgb(0, 0, 255);
+}
+.box {
+    flex: 1;
+    width: 450px;
+    height: 640px;
+    background-color: rgb(52, 58, 59);
+    margin: 0.3rem;
+    font-size:x-large;
+    
+}
+
+body {
+    min-height: 50%;
+    height: 50%;
+}
+.element {
+    display:block
+}
+
+
+
